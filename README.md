@@ -1,2 +1,2 @@
 # Power-BI_Project
-I have created a Power BI dashbord on Sales Chart and Airline
+I have created a Power BI dashboard on Sales Chart and Airline data.
